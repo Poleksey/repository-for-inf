@@ -1,1 +1,1 @@
-AAaabc
+aabc
